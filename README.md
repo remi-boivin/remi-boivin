@@ -1,10 +1,12 @@
-### Hi there 👋
+### Rémi Boivin
 
-<!--
-**remi-boivin/remi-boivin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Who am I ?
 
+I'm a professional fullstack developer since 2018 but I coding seens I'm 13yo. I worked on many subject from landing pages to smartwatch. My curious nature push me to learn many stuff in computer science such as game development, data science or embeded systems. I love to share my 
+
+I've a passion for embeded system
 Here are some ideas to get you started:
-
+- 🚀 I started to code at 13 yo. 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
